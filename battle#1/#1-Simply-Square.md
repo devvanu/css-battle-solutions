@@ -1,8 +1,8 @@
-# [Target #1- Simply Square](https://cssbattle.dev/play/1)
+# Target #1- Simply Square
 
 ### Output & Target:
 
-<img src="https://github.com/devvanu/hosted-assets/blob/main/css-battles/target1-Simply-Square.JPG" alt="target1- Simply Square" width="700">
+<img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/css-battles/target1-Simply-Square.JPG" alt="target1- Simply Square" width="700">
 
 ### Code:
 
