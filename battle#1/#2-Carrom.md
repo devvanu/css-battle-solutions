@@ -1,8 +1,8 @@
-# [Target #2- Carrom](https://cssbattle.dev/play/2)
+# Target #2- Carrom
 
 ### Output & Target:
 
-<img src="https://github.com/devvanu/hosted-assets/blob/main/css-battles/target2-Carrom.JPG" alt="target2- Carrom" width="700">
+<img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/css-battles/target2-Carrom.JPG" alt="target2- Carrom" width="700">
 
 ### Code:
 
