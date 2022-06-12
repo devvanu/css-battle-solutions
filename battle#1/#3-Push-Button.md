@@ -1,11 +1,42 @@
 # Target #3- Push Button
 
-### Output & Target:
+### #2 My Output & Target (2nd Attempt): 
+<img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/css-battles/target3-Push-button1.JPG" width="600">
 
+### Code:
+*(Box-shadow and Border in circle class has made huge a difference- took help from internet 😆)*
+```HTML
+<div class="rect"></div>
+<div class="circle"></div>
+<style>
+  body{
+    background: #6592CF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .rect{
+    background: #243D83;
+    width: 300px;
+    height: 150px;
+  }
+  .circle{
+    position: absolute;
+    background: #EEB850;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 50px #6592CF;
+    border: 50px solid #243D83;
+}
+</style>
+```
+
+
+### #1 My Output & Target (1st Attempt):
 <img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/css-battles/target3-Push-button.JPG" width="600">
 
 ### Code:
-
 ```HTML
 <div class="box" id="box1"></div>
 <div class="clip" id="clip1"></div>
