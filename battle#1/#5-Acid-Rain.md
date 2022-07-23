@@ -2,7 +2,7 @@
 
 ### Output & Target:
 
-<img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/css-battles/target5-Acid-Rain.JPG" alt="target5" width="600">
+<img src="https://user-images.githubusercontent.com/93486013/180608755-65bd7e96-3341-4ef7-8c9a-fc933a3afb36.png" alt="target5" width="600">
 
 ### Code:
 
