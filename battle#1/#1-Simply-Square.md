@@ -2,7 +2,7 @@
 
 ### Output & Target:
 
-<img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/css-battles/target1-Simply-Square.JPG" alt="target1- Simply Square" width="700">
+<img src="https://user-images.githubusercontent.com/93486013/180608466-29c9ff62-5548-44e1-a725-e11a8d40eed9.JPG" alt="target1- Simply Square" width="600">
 
 ### Code:
 
