@@ -1,7 +1,7 @@
 # Target #3- Push Button
 
 ### #2 My Output & Target (2nd Attempt): 
-<img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/css-battles/target3-Push-button1.JPG" width="600">
+<img src="https://user-images.githubusercontent.com/93486013/180608640-cc627b65-5bee-448e-9566-6a47135e12f3.JPG" width="600">
 
 ### Code:
 *(Box-shadow and Border in circle class has made huge a difference- took help from internet 😆)*
@@ -34,7 +34,7 @@
 
 
 ### #1 My Output & Target (1st Attempt):
-<img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/css-battles/target3-Push-button.JPG" width="600">
+<img src="https://user-images.githubusercontent.com/93486013/180608657-0002a095-21a9-4998-9da3-acea18cecb12.JPG" width="600">
 
 ### Code:
 ```HTML
