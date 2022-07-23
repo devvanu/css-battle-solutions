@@ -2,7 +2,7 @@
 
 ### Output & Target:
 
-<img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/css-battles/target4-Ups-n-Downs.JPG" alt="target4" width="700">
+<img src="https://user-images.githubusercontent.com/93486013/180608705-025cf308-c982-4e76-ac03-9845167f983d.JPG" alt="target4" width="600">
 
 ### Code:
 
