@@ -2,7 +2,7 @@
 
 ### Output & Target:
 
-<img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/css-battles/target2-Carrom.JPG" alt="target2- Carrom" width="700">
+<img src="https://user-images.githubusercontent.com/93486013/180608526-560a44fc-d705-483d-9453-2a2d5a420f74.JPG" alt="target2- Carrom" width="600">
 
 ### Code:
 
